@@ -3,7 +3,7 @@
 import os
 
 
-STORY = "Every night, my son kisses me goodnight and whispers that he loves me. Tonight he whispered it in my dead father's voice, and he has never met my father."
+STORY = "Every night, my son kisses me goodnight and whispers that he loves me. Tonight he whispered it in my dead father's voice, and he was born after my father died."
 
 
 def main() -> None:
